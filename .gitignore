@@ -5,8 +5,6 @@
 /uploads
 /node_modules
 yarn-error.log
-
-.env
 .idea
 
 coverage
